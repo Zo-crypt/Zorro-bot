@@ -1,0 +1,10 @@
+{
+  "premiumUser": {
+    "c": {
+      "creator": "044475639" // remplacez par votre numÃ©ro 
+    },
+    "p": {
+      "premium": "044475639" // remplacez par votre numÃ©ro 
+    }
+  }
+}
